@@ -1,3 +1,8 @@
+# Screenshots
+![Screenshot (6)](https://github.com/Animeshmaru/Netflix-Clone/assets/77394228/28ef8daf-c5a3-4b85-9db4-4e5245d6bfa6)
+![Screenshot (7)](https://github.com/Animeshmaru/Netflix-Clone/assets/77394228/82c9516a-914b-46fa-bdf8-69b30357b3d1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
